@@ -1,0 +1,15 @@
+
+
+13/03
+----------------
+Task - plot similar time series of temperature and precipitation anomalies (historical and SSPs) for 
+1. land-only, CD
+2. global tropics (say 30S - 30 N), and CD
+3. Indian land region (70-90E, 5-28N).
+
+Task - Spatial map of mean JJAS precipitation and 850 hPa wind over South and East Asia (40S:40N, 50E - 120E) from 
+the pre-industrial control (piControl) simulations. Compute the multi-model mean (MMM) of all CMIP6 models.
+
+Task - Spatial map of trend in JJAS precipitation and 850 hPa wind in the historical simulation over the period 1950 to  2014. 
+1. For each cmip6 model, 
+2. The multimodel mean.
