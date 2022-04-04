@@ -18,3 +18,20 @@ Task - make the spatial maps of unmasked regions CD
 
 Task - plot the mean annual cycle of precipitation over India for each of these models using the r1i1p1f1 ensemble member.
      - average over the last 10 years of the historical simulation CD
+     
+     
+01/04
+-----------------
+Task - focus on two future periods one up to the 2050s 
+    -  2025 to 2055, and
+    -  2069 to 2099. 
+    Do the analysis focusing on Asian summer monsoon rainfall (also using MME but better to check for model spread) 
+    and for different scenario SSPs 1-1.9, 2-4.5, 3-7.0, and 5-8.5. 
+    
+    - What would be the signal to noise ratio (MME future change/ Inter model SD) 
+    
+for these two future periods in different scenario which will show uncertainty in the future projection as well? 
+ 
+- Note that future change is defined as ===  mean climatology of far (near) future period minus mean of historical period (1975 to 2005 or so). 
+ 
+- Also this will be a spatial plot. We can think about doing a time series later on. 
