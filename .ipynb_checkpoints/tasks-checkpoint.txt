@@ -22,7 +22,7 @@ Task - plot the mean annual cycle of precipitation over India for each of these 
      
 01/04
 -----------------
-Task - focus on two future periods one up to the 2050s 
+Task CD - focus on two future periods one up to the 2050s 
     -  2025 to 2055, and
     -  2069 to 2099. 
     Do the analysis focusing on Asian summer monsoon rainfall (also using MME but better to check for model spread) 
@@ -35,3 +35,19 @@ for these two future periods in different scenario which will show uncertainty i
 - Note that future change is defined as ===  mean climatology of far (near) future period minus mean of historical period (1975 to 2005 or so). 
  
 - Also this will be a spatial plot. We can think about doing a time series later on. 
+
+--------------------------------------------------------------------------------
+Task - We do not need to restrict the analysis to long term trend (or variability either from 1950s or from 1901) to only rainfall. 
+    - do it in different variables. 
+    - low level wind (LLJ), 
+    - Monsoon Hadley Circulation, TEJ etc. 
+    
+    First you start (using one model) with Historical, HIST-GHG, HIST-AER etc  ??????
+ 
+Task - As a second step, look into SSP4.5, SSP4.5aer, SSP4.5hist etc. ????
+        - Look for trends in these simulations for future period (may be 2016 to 2099)
+        
+Task - Finally come with a hypothesis which may or may not be consistent between Historical and future runs.
+
+Task - you may also look for similar trends in recent shorter period (starting from 1979 to present period, where the data is more relatively reliable 
+        due to satellite ERA). 
